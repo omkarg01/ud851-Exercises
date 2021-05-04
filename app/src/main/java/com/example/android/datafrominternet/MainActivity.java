@@ -16,14 +16,17 @@
 package com.example.android.datafrominternet;
 
 import android.os.Bundle;
-import android.support.v7.app.AppCompatActivity;
+//import android.support.v7.app.AppCompatActivity;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.EditText;
 import android.widget.TextView;
 
+import androidx.appcompat.app.AppCompatActivity;
+
 import com.example.android.datafrominternet.utilities.NetworkUtils;
 
+import java.io.IOException;
 import java.net.URL;
 
 public class MainActivity extends AppCompatActivity {
@@ -49,13 +52,19 @@ public class MainActivity extends AppCompatActivity {
      * This method retrieves the search text from the EditText, constructs
      * the URL (using {@link NetworkUtils}) for the github repository you'd like to find, displays
      * that URL in a TextView, and finally fires off an AsyncTask to perform the GET request using
-     * our (not yet created) {@link GithubQueryTask}
+     * our (not yet created) {@linkGithubQueryTask}
      */
     private void makeGithubSearchQuery() {
         String githubQuery = mSearchBoxEditText.getText().toString();
         URL githubSearchUrl = NetworkUtils.buildUrl(githubQuery);
-        mUrlDisplayTextView.setText(githubSearchUrl.toString());
+//        mUrlDisplayTextView.setText(githubSearchUrl.toString());
         // TODO (2) Call getResponseFromHttpUrl and display the results in mSearchResultsTextView
+        try {
+           String response = NetworkUtils.getResponseFromHttpUrl(githubSearchUrl);
+           mUrlDisplayTextView.setText(response);
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
         // TODO (3) Surround the call to getResponseFromHttpUrl with a try / catch block to catch an IOException
     }
 
