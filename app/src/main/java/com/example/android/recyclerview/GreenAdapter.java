@@ -27,7 +27,7 @@ import android.widget.TextView;
  * We couldn't come up with a good name for this class. Then, we realized
  * that this lesson is about RecyclerView.
  *
- * RecyclerView... Recycling... Saving the planet? Being green? Anyone?
+ * RecyclerView... Recycling... Saving the planet? Being green? Anyone?s
  * #crickets
  *
  * Avoid unnecessary garbage collection by using RecyclerView and ViewHolders.
