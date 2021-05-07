@@ -1,0 +1,48 @@
+Index: ../.idea/ud851-Exercises.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- ../.idea/ud851-Exercises.iml	(date 1619764123709)
++++ ../.idea/ud851-Exercises.iml	(date 1619764123709)
+@@ -0,0 +1,24 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module type="JAVA_MODULE" version="4">
++  <component name="FacetManager">
++    <facet type="android" name="Android">
++      <configuration>
++        <option name="GEN_FOLDER_RELATIVE_PATH_APT" value="/../../ud851-Exercises/gen" />
++        <option name="GEN_FOLDER_RELATIVE_PATH_AIDL" value="/../../ud851-Exercises/gen" />
++        <option name="MANIFEST_FILE_RELATIVE_PATH" value="/../../ud851-Exercises/AndroidManifest.xml" />
++        <option name="RES_FOLDER_RELATIVE_PATH" value="/../../ud851-Exercises/res" />
++        <option name="ASSETS_FOLDER_RELATIVE_PATH" value="/../../ud851-Exercises/assets" />
++        <option name="LIBS_FOLDER_RELATIVE_PATH" value="/../../ud851-Exercises/libs" />
++        <option name="PROGUARD_LOGS_FOLDER_RELATIVE_PATH" value="/../../ud851-Exercises/proguard_logs" />
++      </configuration>
++    </facet>
++  </component>
++  <component name="NewModuleRootManager" inherit-compiler-output="true">
++    <exclude-output />
++    <content url="file://$MODULE_DIR$">
++      <sourceFolder url="file://$MODULE_DIR$/gen" isTestSource="false" generated="true" />
++    </content>
++    <orderEntry type="jdk" jdkName="Android API 30 Platform" jdkType="Android SDK" />
++    <orderEntry type="sourceFolder" forTests="false" />
++  </component>
++</module>
+\ No newline at end of file
+Index: T01.01-Exercise-CreateLayout/app/src/main/java/com/example/android/favoritetoys/MainActivity.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>/*\r\n * Copyright (C) 2016 The Android Open Source Project\r\n *\r\n * Licensed under the Apache License, Version 2.0 (the \"License\");\r\n * you may not use this file except in compliance with the License.\r\n * You may obtain a copy of the License at\r\n *\r\n *      http://www.apache.org/licenses/LICENSE-2.0\r\n *\r\n * Unless required by applicable law or agreed to in writing, software\r\n * distributed under the License is distributed on an \"AS IS\" BASIS,\r\n * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.\r\n * See the License for the specific language governing permissions and\r\n * limitations under the License.\r\n */\r\npackage com.example.android.favoritetoys;\r\n\r\nimport android.os.Bundle;\r\nimport android.support.v7.app.AppCompatActivity;\r\n\r\npublic class MainActivity extends AppCompatActivity {\r\n\r\n    @Override\r\n    protected void onCreate(Bundle savedInstanceState) {\r\n        super.onCreate(savedInstanceState);\r\n        setContentView(R.layout.activity_main);\r\n    }\r\n}
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- T01.01-Exercise-CreateLayout/app/src/main/java/com/example/android/favoritetoys/MainActivity.java	(revision b43e4b18a0629ba182cd663ae56d708f1db69174)
++++ T01.01-Exercise-CreateLayout/app/src/main/java/com/example/android/favoritetoys/MainActivity.java	(date 1619764374113)
+@@ -1,4 +1,5 @@
+ /*
++
+  * Copyright (C) 2016 The Android Open Source Project
+  *
+  * Licensed under the Apache License, Version 2.0 (the "License");
