@@ -31,12 +31,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="866e0710-97b4-4288-840e-7519c34d2f0f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/local.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/android/recyclerview/GreenAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/recyclerview/GreenAdapter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/android/recyclerview/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/recyclerview/MainActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/app/ud851-Exercises.app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/ud851-Exercises.app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +90,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="android-custom-viewC:/Users/IP330s/AppData/Local/Android/Sdk/sources/android-30/android/view/View.java_SELECTED" value="View" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ud851-Sunshine/S03.02-Exercise-RecyclerViewClickHandling" />
     <property name="multi-representation-previewC:/Users/IP330s/AppData/Local/Android/Sdk/sources/android-30/android/view/View.java_selected" value="Custom views" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -331,7 +329,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620644275815</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="3.7 Exercise completed">
+      <created>1620647207969</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1620647207969</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -381,7 +386,8 @@
     <MESSAGE value="3.3 Exercise completed" />
     <MESSAGE value="3.4 Exercise completed" />
     <MESSAGE value="3.5 Exercise completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="3.5 Exercise completed" />
+    <MESSAGE value="3.7 Exercise completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="3.7 Exercise completed" />
   </component>
   <component name="WindowStateProjectService">
     <state x="286" y="163" key="#PSD" timestamp="1620644677201">
@@ -416,10 +422,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="93" y="93" width="1350" height="648" key="DiffContextDialog/0.0.1536.834@0.0.1536.834" timestamp="1619783321893" />
-    <state x="549" y="172" key="FileChooserDialogImpl" timestamp="1620641274126">
+    <state x="549" y="172" key="FileChooserDialogImpl" timestamp="1620716689459">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1620641274126" />
+    <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1620716689459" />
     <state width="1491" height="213" key="GridCell.Tab.0.bottom" timestamp="1620123537219">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -440,10 +446,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="277" y="62" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1620641175566" />
-    <state x="361" y="137" key="Vcs.Push.Dialog.v2" timestamp="1620644286204">
+    <state x="361" y="137" key="Vcs.Push.Dialog.v2" timestamp="1620647210001">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="137" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1620644286204" />
+    <state x="361" y="137" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1620647210001" />
     <state x="475" y="150" width="586" height="534" key="find.popup" timestamp="1619966751419">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
