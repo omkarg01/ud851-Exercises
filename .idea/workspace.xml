@@ -25,11 +25,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7d63b3b2-d814-4e8a-8590-a2f4a41df265" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-    </list>
+    <list default="true" id="7d63b3b2-d814-4e8a-8590-a2f4a41df265" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -163,7 +159,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620811899300</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="5.3 Solution">
+      <created>1620812316628</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1620812316628</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -194,7 +197,8 @@
     <MESSAGE value="5.1 Exercise Completed" />
     <MESSAGE value="5.2 Exercise Completed" />
     <MESSAGE value="5.3 Exercise Completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="5.3 Exercise Completed" />
+    <MESSAGE value="5.3 Solution" />
+    <option name="LAST_COMMIT_MESSAGE" value="5.3 Solution" />
   </component>
   <component name="WindowStateProjectService">
     <state x="286" y="163" key="#PSD" timestamp="1620811972478">
@@ -221,9 +225,9 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1491" height="213" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1620811557227" />
-    <state x="361" y="137" key="Vcs.Push.Dialog.v2" timestamp="1620811900877">
+    <state x="361" y="137" key="Vcs.Push.Dialog.v2" timestamp="1620812318913">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="137" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1620811900877" />
+    <state x="361" y="137" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1620812318913" />
   </component>
 </project>
