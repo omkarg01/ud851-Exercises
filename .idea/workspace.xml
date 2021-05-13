@@ -31,15 +31,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7d63b3b2-d814-4e8a-8590-a2f4a41df265" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/android/example/com/visualizerpreferences/SettingsActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/menu/visualizer_menu.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ud851-Exercises.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ud851-Exercises.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/android/example/com/visualizerpreferences/SettingsActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/android/example/com/visualizerpreferences/SettingsActivity.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/android/example/com/visualizerpreferences/VisualizerActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/android/example/com/visualizerpreferences/VisualizerActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +56,7 @@
       <option value="directory" />
     </option>
   </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[JBAAGF08M692MPZ]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -78,7 +84,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="T05b.03-Exercise-PolishAsyncTask" />
+        <entry key="$PROJECT_DIR$" value="T06.01-Solution-SetupTheActivity" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -98,6 +104,7 @@
     <property name="Git.Branch.Popup.ShowAllRemotes" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android-custom-viewD:/Android_Development/ud851-Exercises/app/src/main/java/android/example/com/visualizerpreferences/AudioVisuals/VisualizerView.java_SELECTED" value="VisualizerView" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="multi-representation-previewD:/Android_Development/ud851-Exercises/app/src/main/java/android/example/com/visualizerpreferences/AudioVisuals/VisualizerView.java_selected" value="Custom views" />
@@ -250,7 +257,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620885145648</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="6.1 Completed">
+      <created>1620889623417</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1620889623417</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -285,7 +299,8 @@
     <MESSAGE value="5b.1 Solution" />
     <MESSAGE value="5b.3 Exercise Completed" />
     <MESSAGE value="5b.3 Completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="5b.3 Completed" />
+    <MESSAGE value="6.1 Completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="6.1 Completed" />
   </component>
   <component name="WindowStateProjectService">
     <state x="554" y="215" key="#Gradle" timestamp="1620813309458">
@@ -308,10 +323,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="521" y="341" key="AndroidCreateResourceFileDialog/0.0.1536.834@0.0.1536.834" timestamp="1620888086082" />
-    <state x="614" y="207" key="AndroidCreateXmlResourceDialog" timestamp="1620888301053">
+    <state x="614" y="207" key="AndroidCreateXmlResourceDialog" timestamp="1620890010987">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="614" y="207" key="AndroidCreateXmlResourceDialog/0.0.1536.834@0.0.1536.834" timestamp="1620888301053" />
+    <state x="614" y="207" key="AndroidCreateXmlResourceDialog/0.0.1536.834@0.0.1536.834" timestamp="1620890010987" />
     <state x="549" y="172" key="FileChooserDialogImpl" timestamp="1620889279004">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -332,14 +347,14 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1491" height="213" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1620811557227" />
-    <state x="361" y="137" key="Vcs.Push.Dialog.v2" timestamp="1620885146778">
+    <state x="361" y="137" key="Vcs.Push.Dialog.v2" timestamp="1620889625342">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="137" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1620885146778" />
-    <state x="541" y="130" key="git4idea.branch.GitSmartOperationDialog" timestamp="1620885125160">
+    <state x="361" y="137" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1620889625342" />
+    <state x="541" y="130" key="git4idea.branch.GitSmartOperationDialog" timestamp="1620889593613">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="541" y="130" key="git4idea.branch.GitSmartOperationDialog/0.0.1536.834@0.0.1536.834" timestamp="1620885125160" />
+    <state x="541" y="130" key="git4idea.branch.GitSmartOperationDialog/0.0.1536.834@0.0.1536.834" timestamp="1620889593613" />
     <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1620888352543">
       <screen x="0" y="0" width="1536" height="834" />
     </state>

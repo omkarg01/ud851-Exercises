@@ -138,8 +138,9 @@ public class VisualizerActivity extends AppCompatActivity {
         if (id == R.id.action_settings){
             Intent intent = new Intent(this, SettingsActivity.class);
             startActivity(intent);
+            return true;
         }
-        return true;
+        return super.onOptionsItemSelected(item);
     }
 
     // TODO (1) Create a new Empty Activity named SettingsActivity; make sure to generate the
