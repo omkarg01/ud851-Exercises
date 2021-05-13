@@ -30,11 +30,8 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7d63b3b2-d814-4e8a-8590-a2f4a41df265" name="Default Changelist" comment="6.4 Completed">
-      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/android/example/com/visualizerpreferences/VisualizerActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/android/example/com/visualizerpreferences/VisualizerActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+    <list default="true" id="7d63b3b2-d814-4e8a-8590-a2f4a41df265" name="Default Changelist" comment="6.5 Completed">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -290,7 +287,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620897921475</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="6.5 Completed">
+      <created>1620899005457</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1620899005457</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -329,7 +333,8 @@
     <MESSAGE value="6.2 Completed" />
     <MESSAGE value="6.3 Completed" />
     <MESSAGE value="6.4 Completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="6.4 Completed" />
+    <MESSAGE value="6.5 Completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="6.5 Completed" />
   </component>
   <component name="WindowStateProjectService">
     <state x="554" y="215" key="#Gradle" timestamp="1620813309458">
@@ -384,14 +389,14 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="462" y="119" key="RollbackChangesDialog/0.0.1536.834@0.0.1536.834" timestamp="1620897156069" />
-    <state x="361" y="137" key="Vcs.Push.Dialog.v2" timestamp="1620897923204">
+    <state x="361" y="137" key="Vcs.Push.Dialog.v2" timestamp="1620899006935">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="137" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1620897923204" />
-    <state x="541" y="130" key="git4idea.branch.GitSmartOperationDialog" timestamp="1620889593613">
+    <state x="361" y="137" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1620899006935" />
+    <state x="541" y="130" key="git4idea.branch.GitSmartOperationDialog" timestamp="1620899248740">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="541" y="130" key="git4idea.branch.GitSmartOperationDialog/0.0.1536.834@0.0.1536.834" timestamp="1620889593613" />
+    <state x="541" y="130" key="git4idea.branch.GitSmartOperationDialog/0.0.1536.834@0.0.1536.834" timestamp="1620899248740" />
     <state width="600" height="428" key="javadoc.popup" timestamp="1620897301683">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
