@@ -36,9 +36,6 @@
   <component name="ChangeListManager">
     <list default="true" id="7d63b3b2-d814-4e8a-8590-a2f4a41df265" name="Default Changelist" comment="6.8 Completed">
       <change beforePath="$PROJECT_DIR$/app/src/main/java/android/example/com/visualizerpreferences/SettingsFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/android/example/com/visualizerpreferences/SettingsFragment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/android/example/com/visualizerpreferences/VisualizerActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/android/example/com/visualizerpreferences/VisualizerActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/xml/pref_visualizer.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/xml/pref_visualizer.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +47,7 @@
       <option value="directory" />
     </option>
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[JBAAGF08M692MPZ]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -80,7 +77,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="T06.08-Exercise-PreferenceSummary" />
+        <entry key="$PROJECT_DIR$" value="T06.09-Solution-EditTextPreference" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
